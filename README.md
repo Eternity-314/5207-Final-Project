@@ -15,7 +15,8 @@ This project is a cross-modal deep learning model evaluation benchmark designed 
 │   ├── image_results/                  
 │   ├── time_series_results/            
 │   └── long_text_results/              
-└── saved_models/                       
+└── saved_models/
+└── AI - Gemini.pdf                      
 ```
 
 ## Dataset Preparation
